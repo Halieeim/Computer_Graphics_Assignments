@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649995668 source:c:\users\ahmed\desktop\c_c++ projects\assignment1\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
+1649995760 source:c:\users\ahmed\desktop\c_c++ projects\it2_20190045_20190378\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
+1649995760 source:c:\users\ahmed\downloads\my_github\computer_graphics_assignments\assignment1\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
